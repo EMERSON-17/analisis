@@ -78,12 +78,12 @@ console.log(cuadrado(5,6))
 function restangulo(ba,al){
     return rest = (ba*al)
 }
-console.log(restangulo(5,6))
+console.log(restangulo(2,3))
 
 function ronbo(dma,dme){
     return rest = (dma*dme)/2
 }
-console.log(rombo(5,6))
+console.log(rombo(3,4))
 
 function circulo(ra){
     return rest = (ra*2)*3.1416
